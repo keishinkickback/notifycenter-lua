@@ -2,7 +2,7 @@ package = "notifycenter"
 version = "0.0-1"
 source = {
    url = "git://github.com/aminert/notifycenter-lua",
-   tag = "v1.0",
+   tag = "v0.0-1",
 }
 description = {	
    summary = "Notify Center is the easiest way to push notifications to your iPhone form Lua.",
