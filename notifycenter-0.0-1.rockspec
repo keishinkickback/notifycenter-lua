@@ -1,5 +1,5 @@
 package = "notifycenter"
-version = "1.0"
+version = "0.0-1"
 source = {
    url = "git://github.com/aminert/notifycenter-lua",
    tag = "v1.0",
@@ -17,3 +17,10 @@ dependencies = {
    "luacurl >=1.2.1-1",
    "lua-cjson >=2.1.0-1"
 }
+build = {
+   type = "builtin",
+   modules = {
+      ['notifycenter'] = 'notifycenter.lua',
+   }
+}
+
