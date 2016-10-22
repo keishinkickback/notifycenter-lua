@@ -19,8 +19,7 @@ end
 local function build_json(pushIds, message)
         if type(pushIds)=="table" then
                 pushIds = implode(pushIds, ',')
-        end
-        if type(pushIds)=="string" then
+        elseif type(pushIds)=="string" then
                 pushIds = '"' .. pushIds .. '"'
         end
         local json_data = '{"pushIds":[' .. pushIds .. '],"message":"' .. message ..'"}'
