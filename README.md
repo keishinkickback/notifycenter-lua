@@ -1,4 +1,4 @@
-# notifycenter-lua: Notify Center Lua's SKD
+# Notify Center Lua's SKD
 
 ## About
 
