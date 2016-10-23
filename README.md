@@ -14,7 +14,7 @@ Notify Center is the easiest way to push notifications to your iPhone from major
 
 -Notifications are encrypted in flight and at rest. Messages sent to your iPhone are only viewable by you.
 
--Notify Center provides  Python and Lua SDKs so you can easily start sending notifications to your device with minimal setup or code.
+-Notify Center provides  Python, Lua and Matlab SDKs so you can easily start sending notifications to your device with minimal setup or code.
 
 -Mainly, Notify Center will allow you to redirect messages of your choice to your phone (as notifications) instead of printing them to the standard output. 
 
