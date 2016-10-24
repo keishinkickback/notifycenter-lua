@@ -27,7 +27,7 @@ Stop waiting! We'll notify you!
 luarocks install notifycenter
 ```
 
-Notify Center resuires luacurl, so if you do not have
+Notify Center requires luacurl, so if you do not have
 ```bash
 luarocks install luacurl
 ``` 
