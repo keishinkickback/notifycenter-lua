@@ -55,4 +55,4 @@ nc.notify({pushId, pushId2}, 'Notification from Torch')
 ```
 
 ## Sample Notification 
-<img src="screenshots/notificationOnApp.png" align="left" width="225" height="400">
+<img src="screenshots/notificationOnApp.png" align="left" width="375" height="667">
