@@ -53,4 +53,5 @@ nc.notify(pushId, 'Notification from Torch')
 pushId2 = 'F375878F-5CB0-40E8-8F02-XXXXXXXXXXXX'
 nc.notify({pushId, pushId2}, 'Notification from Torch')
 ```
- 
+
+![screenshot](screenshots/notificationOnApp.png "") 
