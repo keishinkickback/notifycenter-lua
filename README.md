@@ -43,7 +43,7 @@ apt-get install libcurl4-openssl-dev
 
 ## Usage
 
-First create PUSH ID on Notify Center app then pass it to `notify()`.
+First create PUSH ID on Notify Center app then pass it to `notify()` with notification string.
 ```bash
 nc = require "notifycenter"
 pushId ='628697AB-FBB9-49C7-84AD-XXXXXXXXXXXX'
