@@ -4,7 +4,7 @@
 
 Notify Center is the easiest way to push notifications to your iPhone from major Deep Learning frameworks...with a single line of code!
 
--Push notifications to iPhone from Torch, Tensorflow, Keras, etc.
+> * Push notifications to iPhone from Torch, Tensorflow, Keras, etc.
 
 -Notify Center allows you to use channels to easily separate messages of different training and testing workflows.
 
