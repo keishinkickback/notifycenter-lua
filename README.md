@@ -48,5 +48,9 @@ First create PUSH ID on Notify Center app then pass it to `notify()` with notifi
 nc = require "notifycenter"
 pushId ='628697AB-FBB9-49C7-84AD-XXXXXXXXXXXX'
 nc.notify(pushId, 'Notification from Torch')
+
+# Notification to multiple PUSH IDs.
+pushId2 = 'F375878F-5CB0-40E8-8F02-XXXXXXXXXXXX'
+nc.notify({pushId, pushId2}, 'Notification from Torch')
 ```
  
