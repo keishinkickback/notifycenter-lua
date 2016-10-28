@@ -36,6 +36,9 @@ You may need to specify CURL_INCDIR on macOS.
 ```bash
 # on macOS 10.10
 luarocks install luacurl CURL_INCDIR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift-migrator/sdks/MacOSX.sdk/usr/include/
+
+# on Ubuntu
+apt-get install libcurl4-openssl-dev
 ```
 
 ## Usage
